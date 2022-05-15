@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DragonServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DragonServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

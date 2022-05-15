@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/joda-time-2.9.4.wso2v1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/json_simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

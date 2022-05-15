@@ -1,0 +1,8 @@
+
+/nbproject/private/
+/build/
+/dist/
+/res/cache/data/NRdata
+
+# Project exclude paths
+/out/
