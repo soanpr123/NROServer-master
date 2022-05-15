@@ -1188,7 +1188,7 @@ public class Player {
     }
     public int getLevelSkill(int ID){
         for(int i = 0 ; i < skill.size() ;i ++){
-            if(skill.get(i).getSkillTemplate().getID() == ID){
+            if(skill.get(i).template.getID() == ID){
                 return (int)skill.get(i).getPoint();
             }
         }
@@ -1197,7 +1197,7 @@ public class Player {
 
     public void RemoveList(int ID){
         for(int i = 0 ; i < skill.size() ;i ++){
-            if(skill.get(i).getSkillTemplate().getID() == ID){
+            if(skill.get(i).template.getID() == ID){
                 skill.remove(i);
             }
         }

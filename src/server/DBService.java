@@ -19,7 +19,7 @@ public class DBService {
     public Connection getConnection() {
         Connection conn = null;
         try {
-            String url = "jdbc:mysql://127.0.0.1:3306/server";
+            String url = "jdbc:mysql://127.0.0.1:3306/nro";
             String user = "root";
             String password = "";
 

@@ -3,7 +3,7 @@ package real.skill;
 import org.json.simple.JSONObject;
 
 public class Skill {
-	private SkillTemplate template;
+	public SkillTemplate template;
 	private long skillID;
 	private long point;
 	private long powRequire;
